@@ -2,6 +2,8 @@
 
 We build and maintain open source libraries for making node-based UIs.
 
+![Wire your ideas with xyflow](/profile/xyflow.png)
+
 - Check out [React Flow](reactflow.dev) (our most popular project with ⭐️17k)
 - Check out [Svelte Flow](https://www.svelteflow.dev/)
 - Learn more about the [xyflow team](https://xyflow.com/)
