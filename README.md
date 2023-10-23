@@ -1,5 +1,5 @@
-# xyflow
+# .github
 
-Hey! We're Christopher, Hayleigh, John, Moritz, and Peter. We build tools for making node-based UIs like React Flow and Svelte Flow.
+Welcome to this very special repository.
 
-You can learn more about us and the tools we build at <a href="https://xyflow.com/" target="_blank">xyflow.com</a>.
+Edit [/profile/README.md](https://github.com/xyflow/.github/blob/main/profile/README.md) to change what shows up on our [Github org homepage](https://github.com/xyflow).
