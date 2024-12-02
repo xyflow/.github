@@ -11,4 +11,4 @@ We build and maintain open source libraries for making node-based UIs.
 
 If you need anything, have an idea, or just want to say hi, we're an email away at info@xyflow.com.
 
-✌🏻 Christopher, Hayleigh, Moritz, and Peter
+✌🏻 the xyflow team
